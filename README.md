@@ -36,6 +36,7 @@ SpectralNet-Hyperspectral-Unmixing/
 │
 ├── results/
 ├── figures/
+├── report/
 └── README.md
 ```
 
